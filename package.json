@@ -1,6 +1,6 @@
 {
-  "name": "sassify",
-  "version": "0.6.0",
+  "name": "desassify",
+  "version": "0.1.0",
   "description": "Browserify middleware for adding required styles to the page.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/davidguttman/sassify.git"
+    "url": "git://github.com/themang/sassify.git"
   },
   "keywords": [
     "browserify",
@@ -17,7 +17,7 @@
     "middleware"
   ],
   "browser": "./lib/sassify-browser.js",
-  "author": "David Guttman",
+  "author": "Josh Taylor",
   "contributors": [
     {
       "name": "Adriaan Callaerts",
@@ -64,8 +64,5 @@
   "bugs": {
     "url": "https://github.com/davidguttman/sassify/issues"
   },
-  "homepage": "https://github.com/davidguttman/sassify",
-  "sassify": {
-    "auto-inject": true
-  }
+  "homepage": "https://github.com/davidguttman/sassify"
 }

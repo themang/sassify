@@ -2,9 +2,6 @@
 
 Simple middleware and method for Browserify to add [Sass](http://sass-lang.com) styles to the browser.
 
-[![Build Status](https://travis-ci.org/call-a3/sassify.svg?branch=master)](https://travis-ci.org/call-a3/sassify) [![Dependency Status](https://david-dm.org/call-a3/sassify.svg)](https://david-dm.org/call-a3/sassify) [![devDependency Status](https://david-dm.org/call-a3/sassify/dev-status.svg)](https://david-dm.org/call-a3/sassify#info=devDependencies)
-
-_Currently breaks in some cases on node 0.11.x with latest version (2.0.0-beta) of node-sass as documented in [node-sass issue #550](https://github.com/sass/node-sass/issues/550). This is also the reason why the current build is failing on node 0.11._
 
 # Example
 
