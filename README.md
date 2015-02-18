@@ -1,4 +1,4 @@
-# sassify #
+# desassify #
 
 Simple middleware and method for Browserify to add [Sass](http://sass-lang.com) styles to the browser.
 
@@ -29,13 +29,13 @@ require('./style.sass');
 Install sassify into your app:
 
 ```
-$ npm install sassify
+$ npm install desassify
 ```
 
 When you compile your app, just pass `-t sassify` to browserify:
 
 ```
-$ browserify -t sassify entry.js > bundle.js
+$ browserify -t desassify entry.js > bundle.js
 ```
 
 ## Imports
