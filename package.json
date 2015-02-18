@@ -1,6 +1,6 @@
 {
   "name": "desassify",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Browserify middleware for adding required styles to the page.",
   "main": "index.js",
   "scripts": {
