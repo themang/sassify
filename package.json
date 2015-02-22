@@ -55,7 +55,8 @@
     "cssify": "^0.6.0",
     "node-sass": "^2.0.1",
     "rework": "^1.0.1",
-    "rework-plugin-url": "^1.0.1"
+    "rework-plugin-url": "^1.0.1",
+    "clean-css": "~3.0.10"
   },
   "devDependencies": {
     "browserify": "^8.1.0",
